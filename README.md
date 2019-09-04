@@ -1,1 +1,1 @@
-# DJU_JSP_Class
+# dju_jsp_class
